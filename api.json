@@ -1,0 +1,13 @@
+[
+  {
+    "you good": "iam robot"
+  },
+  {
+    "int": 123,
+    "string": "example",
+    "bolean": true,
+    "null": "",
+    "object": {},
+    "array": []
+  }
+]
